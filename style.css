@@ -1,0 +1,42 @@
+:root {
+  --outer-space: #33393f;
+  --gin: #ff006f;
+  --heliotrope: #ff4be1;
+}
+html {
+  font-size: 53 ;
+}
+ 
+body {
+background: #ff90f4;
+text-align: center;
+}
+
+header {
+color: rgb(116, 4, 101);
+  width: 300px ;
+  flex-direction: column;
+  box {
+    display: flex;
+    flex-direction: row ;
+    justify-content: space-between;
+    background: #fd6aaa;
+
+  }
+}
+
+.card img {
+  width: 100%;
+  min-width: 400px;
+  justify-content: space-between;
+  padding: 10px;
+  border-style: solid;
+  
+}
+
+
+
+
+
+
+
